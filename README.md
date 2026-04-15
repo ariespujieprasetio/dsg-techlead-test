@@ -101,7 +101,7 @@ techlead-test/
 ## 1. Clone Repository
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/ariespujieprasetio/dsg-techlead-test.git>
 cd techlead-test
 ```
 
