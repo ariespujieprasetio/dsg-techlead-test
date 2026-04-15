@@ -120,7 +120,7 @@ npm install
 Create `.env` file:
 
 ```env
-DATABASE_URL="postgresql://rizalnurfaizi@localhost:5432/todo_db"
+DATABASE_URL="postgresql://postgres:password@localhost:5432/todo_db"
 PORT=3000
 ```
 
